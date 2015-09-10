@@ -24,4 +24,4 @@ If you found a repeatable bug, and troubleshooting tips didn't help, then be sur
 
 Version | Release date | Changes
 ------- | ------------ | -------
-x       | x            | x
+2.3.8   | 10/09/2015   | Removed IPCheck function for compatibility with the ICEPAY cloud.
